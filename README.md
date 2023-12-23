@@ -1,6 +1,6 @@
 ### Zohooo
 ```bash
-Shell Bypass 403 Litespeed
+Mini Shell Bypass 403 Litespeed
 ~ Bypass Hard Forbidden sch.id , ac.id , go.id & Etc
 ~ Anti Delete
 ~ Anti Blank
