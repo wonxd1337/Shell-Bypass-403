@@ -6,6 +6,8 @@ Mini Shell Bypass 403 Litespeed
 ~ Anti Blank
 ~ Bypass Litespeed
 ~ Shell Anti Tikung
+
+Password Default : heker
 ```
 ### Fitur Shell
 ```bash
