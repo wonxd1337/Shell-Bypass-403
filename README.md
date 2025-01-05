@@ -1,26 +1,27 @@
+
 ### Zohooo
 ```bash
 Mini Shell Bypass 403 Litespeed
-~ Bypass Hard Forbidden sch.id , ac.id , go.id & Etc
+~ Bypass Hard Forbidden sch.id, ac.id, go.id & Etc
 ~ Anti Delete
-~ Anti Blank
+~ Anti-Blank
 ~ Bypass Litespeed
-~ Shell Anti Tikung
+~ Anti-Kink Shell
 
-Password Default : heker
+Default Password : heker
 ```
-### Fitur Shell
+### Shell Features
 ```bash
-~ Green All File
-  { Membuat Semua File Menjadi Green }
+~ Green All Files
+  { Make All Files Green }
 
-~ Green All Folder
-  { Membuat Semua Dir Menjadi Green }
+~ Green All Folders
+  { Make All Directors Green }
 
-~ Red All File
-  { Membuat Semua File Menjadi Red }
+~ Red All Files
+  { Make All Files Red }
 
-~ Red All Folder
-  { Membuat Semua Menjadi Red Dir }
+~ Red All Folders
+  { Making Everything Red Dir }
 
 ```
